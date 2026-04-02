@@ -1,0 +1,8 @@
+# Auth0 Configuration
+# Set these environment variables or replace the placeholder values.
+
+# Your Auth0 tenant domain (e.g., acmebank.us.auth0.com)
+AUTH0_DOMAIN=your-tenant.us.auth0.com
+
+# The API audience identifier registered in Auth0 (e.g., https://api.acmebank.com)
+AUTH0_AUDIENCE=https://api.acmebank.com
